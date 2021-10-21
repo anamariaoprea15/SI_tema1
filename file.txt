@@ -1,0 +1,6 @@
+acesta este un exemplu pentru criptare
+AES - Advanced Encryption Standard
+Este un sistem de criptare pe blocuri, fiind cea mai buna substitutie pentru DES.
+A fost creat de Vincent Rijmen si Joan Daemen.
+Opereaza pe blocuri de 128 de biti, operatii orientate pe octet-cheie de criptare de lungime 128, 192 sau 256 de biti (doar 56 pentru DES).
+End!
